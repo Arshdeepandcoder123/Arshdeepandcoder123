@@ -18,4 +18,4 @@
 
 ## Socials:
 [![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://bit.ly/32GWo0k)
-[![Discord](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Discord)](https://discord.gg/Suh7y6Mrrx)
+[![Discord](discord.png)](https://discord.gg/Suh7y6Mrrx)
