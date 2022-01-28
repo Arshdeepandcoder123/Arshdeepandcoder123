@@ -18,4 +18,4 @@
 
 ## Socials:
 [![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://bit.ly/32GWo0k)
-[![Discord](discord.png)](https://discord.gg/Suh7y6Mrrx)
+<a href="https://discord.gg/Suh7y6Mrrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PHDc2gnEzE" height="30" width="40" /></a>
