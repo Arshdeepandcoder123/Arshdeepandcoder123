@@ -18,5 +18,6 @@
 
 ## Socials:
 <a href="bit.ly/32GWo0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PHDc2gnEzE" height="30" width="40" /></a>
-
 <a href="https://discord.gg/Suh7y6Mrrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PHDc2gnEzE" height="30" width="40" /></a>
+
+[![Python_NodeJS_HTML_CSS_ReactJS_Flask_JavaScript_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_NodeJS_HTML_CSS_ReactJS_Flask_JavaScript_)](https://pimp-my-readme.webapp.io)
