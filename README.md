@@ -6,9 +6,8 @@
 
 - 💬 Ask me about **videos I upload on my channel**
 
-[![Tech I Know](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_NodeJS_HTML_CSS_ReactJS_Flask_JavaScript_)](https://pimp-my-readme.webapp.io)
+Tech I Know - [![Tech I Know](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_NodeJS_HTML_CSS_ReactJS_Flask_JavaScript_)](https://pimp-my-readme.webapp.io)
 
-- Tech I know [![Tech I Know](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_NodeJS_HTML_CSS_ReactJS_Flask_JavaScript_)](https://pimp-my-readme.webapp.io)
 
 
 ## Support Me:
