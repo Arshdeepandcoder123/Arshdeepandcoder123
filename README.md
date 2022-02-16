@@ -1,5 +1,7 @@
 [![Hey, I am ArshCoding, I have a YouTube channel about Programming.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20have%20a%20YouTube%20channel%20about%20Programming.&title=Hey%2C%20I%20am%20ArshCoding)](https://bit.ly/32GWo0k)
 
+[![Hey, I'm ArshCoding!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f920&text=Hey%252C%2520I%27m%2520ArshCoding%21)](https://pimp-my-readme.webapp.io)
+
 [![Visitor Counter for Arshcoding](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Arshdeepandcoder123)](https://pimp-my-readme.webapp.io)
 
 - 🔭 I’m currently working on [my YouTube channel](bit.ly/32GWo0k)
