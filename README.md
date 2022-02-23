@@ -6,7 +6,7 @@
 - ⚡ Fun fact **I also play Cricket**
 - 📫 How to reach me: -> My <a href="https://discord.gg/WtEjnqm5">Discord Server</a>
 
-[![CODER123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshdeepandcoder123&count_private=true&show_icons=true&theme=radical)]
+[CODER123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshdeepandcoder123&count_private=true&show_icons=true&theme=radical)
 
 
 
