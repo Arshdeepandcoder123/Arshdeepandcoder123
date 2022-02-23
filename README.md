@@ -10,13 +10,12 @@
 
 
 
-
-
-[![CODER123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshdeepandcoder123&count_private=true&show_icons=true&theme=radical)]
+![CODER123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshdeepandcoder123&count_private=true&show_icons=true&theme=radical)
 
 
 Tech I Know - [![Tech I Know](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_NodeJS_HTML_CSS_ReactJS_Flask_JavaScript_)](https://pimp-my-readme.webapp.io)
 
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankKumarSaxena&langs_count=50&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Support Me:
