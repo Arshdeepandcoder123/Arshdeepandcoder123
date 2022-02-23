@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [my YouTube channel](bit.ly/32GWo0k)
 - 🌱 I’m currently learning **Python API Development**
 - ⚡ Fun fact **I also play Cricket**
-
+- 📫 How to reach me: -> My <a href="https://discord.gg/WtEjnqm5">Discord Server</a>
 
 [CODER123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshdeepandcoder123&count_private=true&show_icons=true&theme=radical)]
 
@@ -17,9 +17,14 @@ Tech I Know - [![Tech I Know](https://pimp-my-readme.webapp.io/pimp-my-readme/te
 
 
 ## Support Me:
+
 <p><a href="https://www.buymeacoffee.com/coder123"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p>
 <br/><br/>
+
+
+
 ## Socials:
 <a href="bit.ly/32GWo0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PHDc2gnEzE" height="30" width="40" /></a>
+
 <a href="https://discord.gg/Suh7y6Mrrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PHDc2gnEzE" height="30" width="40" /></a>
-- 📫 How to reach me: -> My <a href="https://discord.gg/WtEjnqm5">Discord Server</a>
+
